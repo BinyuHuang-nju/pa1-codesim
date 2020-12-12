@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hby/pa1/codesim.cpp
+iostream
+-
+vector
+-
+queue
+-
+deque
+-
+algorithm
+-
+stdio.h
+-
+stdlib.h
+-
+string
+-
+cstring
+-
+iomanip
+-
+fstream
+-
+climits
+-
+

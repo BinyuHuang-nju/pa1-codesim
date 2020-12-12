@@ -34,9 +34,7 @@
 *.app
 
 
-build/CMakeCache.txt
-build/CMakeFiles
-build/cmake_install.cmake
+
 build/code1.s
 build/code2.s
 build/codesim
