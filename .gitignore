@@ -1,0 +1,46 @@
+# .gitignore achieved from https://github.com/github/gitignore
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+build/CMakeCache.txt
+build/CMakeFiles
+build/cmake_install.cmake
+build/code1.s
+build/code2.s
+build/codesim
+*.s
+*.zip
+*.pdf
+codesim
